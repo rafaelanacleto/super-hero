@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\BlazorApp1Demo\\BlazorApp1Demo\\Shared\\BlazorApp1Demo.Shared.csproj": {}
+    "/home/rafael/repos/super-hero/BlazorApp1Demo/Shared/BlazorApp1Demo.Shared.csproj": {}
   },
   "projects": {
-    "C:\\repos\\BlazorApp1Demo\\BlazorApp1Demo\\Shared\\BlazorApp1Demo.Shared.csproj": {
+    "/home/rafael/repos/super-hero/BlazorApp1Demo/Shared/BlazorApp1Demo.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\BlazorApp1Demo\\BlazorApp1Demo\\Shared\\BlazorApp1Demo.Shared.csproj",
+        "projectUniqueName": "/home/rafael/repos/super-hero/BlazorApp1Demo/Shared/BlazorApp1Demo.Shared.csproj",
         "projectName": "BlazorApp1Demo.Shared",
-        "projectPath": "C:\\repos\\BlazorApp1Demo\\BlazorApp1Demo\\Shared\\BlazorApp1Demo.Shared.csproj",
-        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\BlazorApp1Demo\\BlazorApp1Demo\\Shared\\obj\\",
+        "projectPath": "/home/rafael/repos/super-hero/BlazorApp1Demo/Shared/BlazorApp1Demo.Shared.csproj",
+        "packagesPath": "/home/rafael/.nuget/packages/",
+        "outputPath": "/home/rafael/repos/super-hero/BlazorApp1Demo/Shared/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/rafael/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xYvs9+C0v07E8v0NWfKRj4xSvZey+yroDEDGITRdDmBdjnvvVC1wm1kEsAuNWKzAlYcpmAHyKW50nudjjdbRYA==",
+  "dgSpecHash": "GcKRoYl0PI5bCEMF7v1TiWLTsP2ScbWty4tzVpBCYTz8Rv2Jf7bEMe4r1DPRxJtHpRyM0iZQRR73jyCO+aM+aQ==",
   "success": true,
-  "projectFilePath": "C:\\repos\\BlazorApp1Demo\\BlazorApp1Demo\\Shared\\BlazorApp1Demo.Shared.csproj",
+  "projectFilePath": "/home/rafael/repos/super-hero/BlazorApp1Demo/Shared/BlazorApp1Demo.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

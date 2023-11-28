@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = BlazorApp1Demo.Shared
-build_property.ProjectDir = C:\repos\BlazorApp1Demo\BlazorApp1Demo\Shared\
+build_property.ProjectDir = /home/rafael/repos/super-hero/BlazorApp1Demo/Shared/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
