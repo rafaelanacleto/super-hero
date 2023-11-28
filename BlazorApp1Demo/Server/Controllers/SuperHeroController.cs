@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace BlazorApp1Demo.Server.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     [ApiController]
     public class SuperHeroController : ControllerBase
     {
@@ -55,9 +55,17 @@ namespace BlazorApp1Demo.Server.Controllers
         }
 
         [HttpGet]
+        [Route("{id}")]
         public async Task<ActionResult<SuperHero>> GetSuperHero(int id)
         {
-            return Ok(heroes);
+            var hero = heroes.FirstOrDefault(x => x.Id == id);
+
+            if (hero == null)
+            {
+                return NotFound("Sorry, not found");
+            }
+
+            return Ok(hero);
         }
 
     }
