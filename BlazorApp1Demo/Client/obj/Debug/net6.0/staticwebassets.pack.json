@@ -1,91 +1,91 @@
 {
   "Files": [
     {
-      "Id": "/home/rafael/repos/super-hero/BlazorApp1Demo/Client/bin/Debug/net6.0/wwwroot/_framework/blazor.webassembly.js",
-      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+      "Id": "C:\\repos\\super-hero\\BlazorApp1Demo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "/home/rafael/repos/super-hero/BlazorApp1Demo/Client/obj/Debug/net6.0/compressed/w9pcruz90g.gz",
-      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+      "Id": "C:\\repos\\super-hero\\BlazorApp1Demo\\Client\\obj\\Debug\\net6.0\\compressed\\e7nk3gbsfj.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "/home/rafael/repos/super-hero/BlazorApp1Demo/Client/obj/Debug/net6.0/scopedcss/bundle/BlazorApp1Demo.Client.styles.css",
-      "PackagePath": "staticwebassets/BlazorApp1Demo.Client.styles.css"
+      "Id": "C:\\repos\\super-hero\\BlazorApp1Demo\\Client\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorApp1Demo.Client.styles.css",
+      "PackagePath": "staticwebassets\\BlazorApp1Demo.Client.styles.css"
     },
     {
-      "Id": "/home/rafael/repos/super-hero/BlazorApp1Demo/Client/wwwroot/css/app.css",
-      "PackagePath": "staticwebassets/css/app.css"
+      "Id": "C:\\repos\\super-hero\\BlazorApp1Demo\\Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "/home/rafael/repos/super-hero/BlazorApp1Demo/Client/wwwroot/css/bootstrap/bootstrap.min.css",
-      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+      "Id": "C:\\repos\\super-hero\\BlazorApp1Demo\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "/home/rafael/repos/super-hero/BlazorApp1Demo/Client/wwwroot/css/bootstrap/bootstrap.min.css.map",
-      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+      "Id": "C:\\repos\\super-hero\\BlazorApp1Demo\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "/home/rafael/repos/super-hero/BlazorApp1Demo/Client/wwwroot/css/open-iconic/FONT-LICENSE",
-      "PackagePath": "staticwebassets/css/open-iconic"
+      "Id": "C:\\repos\\super-hero\\BlazorApp1Demo\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
     },
     {
-      "Id": "/home/rafael/repos/super-hero/BlazorApp1Demo/Client/wwwroot/css/open-iconic/ICON-LICENSE",
-      "PackagePath": "staticwebassets/css/open-iconic"
+      "Id": "C:\\repos\\super-hero\\BlazorApp1Demo\\Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
     },
     {
-      "Id": "/home/rafael/repos/super-hero/BlazorApp1Demo/Client/wwwroot/css/open-iconic/README.md",
-      "PackagePath": "staticwebassets/css/open-iconic/README.md"
+      "Id": "C:\\repos\\super-hero\\BlazorApp1Demo\\Client\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
     },
     {
-      "Id": "/home/rafael/repos/super-hero/BlazorApp1Demo/Client/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
-      "PackagePath": "staticwebassets/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+      "Id": "C:\\repos\\super-hero\\BlazorApp1Demo\\Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Id": "/home/rafael/repos/super-hero/BlazorApp1Demo/Client/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
-      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.eot"
+      "Id": "C:\\repos\\super-hero\\BlazorApp1Demo\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Id": "/home/rafael/repos/super-hero/BlazorApp1Demo/Client/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
-      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.otf"
+      "Id": "C:\\repos\\super-hero\\BlazorApp1Demo\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Id": "/home/rafael/repos/super-hero/BlazorApp1Demo/Client/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
-      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.svg"
+      "Id": "C:\\repos\\super-hero\\BlazorApp1Demo\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Id": "/home/rafael/repos/super-hero/BlazorApp1Demo/Client/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
-      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.ttf"
+      "Id": "C:\\repos\\super-hero\\BlazorApp1Demo\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Id": "/home/rafael/repos/super-hero/BlazorApp1Demo/Client/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
-      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.woff"
+      "Id": "C:\\repos\\super-hero\\BlazorApp1Demo\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Id": "/home/rafael/repos/super-hero/BlazorApp1Demo/Client/wwwroot/favicon.ico",
-      "PackagePath": "staticwebassets/favicon.ico"
+      "Id": "C:\\repos\\super-hero\\BlazorApp1Demo\\Client\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "/home/rafael/repos/super-hero/BlazorApp1Demo/Client/wwwroot/icon-192.png",
-      "PackagePath": "staticwebassets/icon-192.png"
+      "Id": "C:\\repos\\super-hero\\BlazorApp1Demo\\Client\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "/home/rafael/repos/super-hero/BlazorApp1Demo/Client/wwwroot/index.html",
-      "PackagePath": "staticwebassets/index.html"
+      "Id": "C:\\repos\\super-hero\\BlazorApp1Demo\\Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.BlazorApp1Demo.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BlazorApp1Demo.Client.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.BlazorApp1Demo.Client.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BlazorApp1Demo.Client.props",
       "PackagePath": "build\\BlazorApp1Demo.Client.props"
     },
     {
-      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.BlazorApp1Demo.Client.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorApp1Demo.Client.props",
       "PackagePath": "buildMultiTargeting\\BlazorApp1Demo.Client.props"
     },
     {
-      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.BlazorApp1Demo.Client.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BlazorApp1Demo.Client.props",
       "PackagePath": "buildTransitive\\BlazorApp1Demo.Client.props"
     }
   ],

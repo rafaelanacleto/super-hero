@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "GcKRoYl0PI5bCEMF7v1TiWLTsP2ScbWty4tzVpBCYTz8Rv2Jf7bEMe4r1DPRxJtHpRyM0iZQRR73jyCO+aM+aQ==",
+  "dgSpecHash": "hJitDfU9hxOph9/iby2V1V31ZWP4JJAPn5yYsSt1SFenfvgWScjqHi5MizN1KDZjJnu96R7yE6jVllfmFGc6gw==",
   "success": true,
-  "projectFilePath": "/home/rafael/repos/super-hero/BlazorApp1Demo/Shared/BlazorApp1Demo.Shared.csproj",
+  "projectFilePath": "C:\\repos\\super-hero\\BlazorApp1Demo\\Shared\\BlazorApp1Demo.Shared.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Você está executando a operação 'restore' com uma fonte 'HTTP', 'http://10.222.86.80/nugetserver/nuget/'. O acesso não HTTPS será removido em uma versão futura. Considere migrar para uma fonte 'HTTPS'."
+    }
+  ]
 }

@@ -1218,35 +1218,39 @@
     ]
   },
   "packageFolders": {
-    "/home/rafael/.nuget/packages/": {}
+    "C:\\Users\\rafael.anacleto\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/rafael/repos/super-hero/BlazorApp1Demo/Server/BlazorApp1Demo.Server.csproj",
+      "projectUniqueName": "C:\\repos\\super-hero\\BlazorApp1Demo\\Server\\BlazorApp1Demo.Server.csproj",
       "projectName": "BlazorApp1Demo.Server",
-      "projectPath": "/home/rafael/repos/super-hero/BlazorApp1Demo/Server/BlazorApp1Demo.Server.csproj",
-      "packagesPath": "/home/rafael/.nuget/packages/",
-      "outputPath": "/home/rafael/repos/super-hero/BlazorApp1Demo/Server/obj/",
+      "projectPath": "C:\\repos\\super-hero\\BlazorApp1Demo\\Server\\BlazorApp1Demo.Server.csproj",
+      "packagesPath": "C:\\Users\\rafael.anacleto\\.nuget\\packages\\",
+      "outputPath": "C:\\repos\\super-hero\\BlazorApp1Demo\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/rafael/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\rafael.anacleto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://10.222.86.80/nugetserver/nuget/": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://tfs-agora.corpt.bradesco.com.br/tfs/TeamDDSProjectCollection/_packaging/NugetFeed/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/rafael/repos/super-hero/BlazorApp1Demo/Client/BlazorApp1Demo.Client.csproj": {
-              "projectPath": "/home/rafael/repos/super-hero/BlazorApp1Demo/Client/BlazorApp1Demo.Client.csproj"
+            "C:\\repos\\super-hero\\BlazorApp1Demo\\Client\\BlazorApp1Demo.Client.csproj": {
+              "projectPath": "C:\\repos\\super-hero\\BlazorApp1Demo\\Client\\BlazorApp1Demo.Client.csproj"
             },
-            "/home/rafael/repos/super-hero/BlazorApp1Demo/Shared/BlazorApp1Demo.Shared.csproj": {
-              "projectPath": "/home/rafael/repos/super-hero/BlazorApp1Demo/Shared/BlazorApp1Demo.Shared.csproj"
+            "C:\\repos\\super-hero\\BlazorApp1Demo\\Shared\\BlazorApp1Demo.Shared.csproj": {
+              "projectPath": "C:\\repos\\super-hero\\BlazorApp1Demo\\Shared\\BlazorApp1Demo.Shared.csproj"
             }
           }
         }
@@ -1285,8 +1289,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Você está executando a operação 'restore' com uma fonte 'HTTP', 'http://10.222.86.80/nugetserver/nuget/'. O acesso não HTTPS será removido em uma versão futura. Considere migrar para uma fonte 'HTTPS'."
+    }
+  ]
 }
