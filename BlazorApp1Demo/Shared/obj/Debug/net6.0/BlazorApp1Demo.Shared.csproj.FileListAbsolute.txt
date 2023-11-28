@@ -1,0 +1,11 @@
+C:\repos\BlazorApp1Demo\BlazorApp1Demo\Shared\bin\Debug\net6.0\BlazorApp1Demo.Shared.deps.json
+C:\repos\BlazorApp1Demo\BlazorApp1Demo\Shared\bin\Debug\net6.0\BlazorApp1Demo.Shared.dll
+C:\repos\BlazorApp1Demo\BlazorApp1Demo\Shared\bin\Debug\net6.0\BlazorApp1Demo.Shared.pdb
+C:\repos\BlazorApp1Demo\BlazorApp1Demo\Shared\obj\Debug\net6.0\BlazorApp1Demo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\BlazorApp1Demo\BlazorApp1Demo\Shared\obj\Debug\net6.0\BlazorApp1Demo.Shared.AssemblyInfoInputs.cache
+C:\repos\BlazorApp1Demo\BlazorApp1Demo\Shared\obj\Debug\net6.0\BlazorApp1Demo.Shared.AssemblyInfo.cs
+C:\repos\BlazorApp1Demo\BlazorApp1Demo\Shared\obj\Debug\net6.0\BlazorApp1Demo.Shared.csproj.CoreCompileInputs.cache
+C:\repos\BlazorApp1Demo\BlazorApp1Demo\Shared\obj\Debug\net6.0\BlazorApp1Demo.Shared.dll
+C:\repos\BlazorApp1Demo\BlazorApp1Demo\Shared\obj\Debug\net6.0\refint\BlazorApp1Demo.Shared.dll
+C:\repos\BlazorApp1Demo\BlazorApp1Demo\Shared\obj\Debug\net6.0\BlazorApp1Demo.Shared.pdb
+C:\repos\BlazorApp1Demo\BlazorApp1Demo\Shared\obj\Debug\net6.0\ref\BlazorApp1Demo.Shared.dll
