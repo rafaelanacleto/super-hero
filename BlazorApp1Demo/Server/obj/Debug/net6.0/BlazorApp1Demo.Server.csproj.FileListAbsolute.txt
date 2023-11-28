@@ -105,6 +105,7 @@ C:/repos/BlazorApp1Demo/BlazorApp1Demo/Server/obj/Debug/net6.0/ref/BlazorApp1Dem
 /home/rafael/repos/super-hero/BlazorApp1Demo/Server/obj/Debug/net6.0/BlazorApp1Demo.Server.pdb
 /home/rafael/repos/super-hero/BlazorApp1Demo/Server/obj/Debug/net6.0/BlazorApp1Demo.Server.genruntimeconfig.cache
 /home/rafael/repos/super-hero/BlazorApp1Demo/Server/obj/Debug/net6.0/ref/BlazorApp1Demo.Server.dll
+C:\repos\super-hero\BlazorApp1Demo\Server\bin\Debug\net6.0\BlazorApp1Demo.Client.staticwebassets.runtime.json
 C:\repos\super-hero\BlazorApp1Demo\Server\bin\Debug\net6.0\appsettings.Development.json
 C:\repos\super-hero\BlazorApp1Demo\Server\bin\Debug\net6.0\appsettings.json
 C:\repos\super-hero\BlazorApp1Demo\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
@@ -113,7 +114,6 @@ C:\repos\super-hero\BlazorApp1Demo\Server\bin\Debug\net6.0\BlazorDebugProxy\Brow
 C:\repos\super-hero\BlazorApp1Demo\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
 C:\repos\super-hero\BlazorApp1Demo\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
 C:\repos\super-hero\BlazorApp1Demo\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
-C:\repos\super-hero\BlazorApp1Demo\Server\bin\Debug\net6.0\BlazorApp1Demo.Client.staticwebassets.runtime.json
 C:\repos\super-hero\BlazorApp1Demo\Server\bin\Debug\net6.0\BlazorApp1Demo.Server.staticwebassets.runtime.json
 C:\repos\super-hero\BlazorApp1Demo\Server\bin\Debug\net6.0\BlazorApp1Demo.Server.exe
 C:\repos\super-hero\BlazorApp1Demo\Server\bin\Debug\net6.0\BlazorApp1Demo.Server.deps.json

@@ -10,11 +10,11 @@
         "projectUniqueName": "C:\\repos\\super-hero\\BlazorApp1Demo\\Client\\BlazorApp1Demo.Client.csproj",
         "projectName": "BlazorApp1Demo.Client",
         "projectPath": "C:\\repos\\super-hero\\BlazorApp1Demo\\Client\\BlazorApp1Demo.Client.csproj",
-        "packagesPath": "C:\\Users\\rafael.anacleto\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
         "outputPath": "C:\\repos\\super-hero\\BlazorApp1Demo\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rafael.anacleto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,9 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://10.222.86.80/nugetserver/nuget/": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://tfs-agora.corpt.bradesco.com.br/tfs/TeamDDSProjectCollection/_packaging/NugetFeed/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -111,11 +109,11 @@
         "projectUniqueName": "C:\\repos\\super-hero\\BlazorApp1Demo\\Server\\BlazorApp1Demo.Server.csproj",
         "projectName": "BlazorApp1Demo.Server",
         "projectPath": "C:\\repos\\super-hero\\BlazorApp1Demo\\Server\\BlazorApp1Demo.Server.csproj",
-        "packagesPath": "C:\\Users\\rafael.anacleto\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
         "outputPath": "C:\\repos\\super-hero\\BlazorApp1Demo\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rafael.anacleto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -123,9 +121,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://10.222.86.80/nugetserver/nuget/": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://tfs-agora.corpt.bradesco.com.br/tfs/TeamDDSProjectCollection/_packaging/NugetFeed/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -184,11 +180,11 @@
         "projectUniqueName": "C:\\repos\\super-hero\\BlazorApp1Demo\\Shared\\BlazorApp1Demo.Shared.csproj",
         "projectName": "BlazorApp1Demo.Shared",
         "projectPath": "C:\\repos\\super-hero\\BlazorApp1Demo\\Shared\\BlazorApp1Demo.Shared.csproj",
-        "packagesPath": "C:\\Users\\rafael.anacleto\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
         "outputPath": "C:\\repos\\super-hero\\BlazorApp1Demo\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rafael.anacleto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -196,9 +192,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://10.222.86.80/nugetserver/nuget/": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://tfs-agora.corpt.bradesco.com.br/tfs/TeamDDSProjectCollection/_packaging/NugetFeed/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
