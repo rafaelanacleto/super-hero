@@ -1,10 +1,12 @@
 @page "/superhero"
 @using BlazorApp1Demo.Shared
 @inject HttpClient Http
+@inject NavigationManager Navigation
+@inject ISuperHeroService SuperHeroService
 
 <h1>Super Heros</h1>
 
-@if (superHeroes == null)
+@if (SuperHeroService.Heros == null)
 {
     <p><em>Loading...</em></p>
 }
@@ -18,10 +20,11 @@ else
                 <th>Last Name</th>
                 <th>Hero Name</th>             
                 <th>Comic</th>
+                <th style="padding-left: 30px;">Ações:</th>
             </tr>
         </thead>
         <tbody>
-            @foreach (var hero in superHeroes)
+            @foreach (var hero in SuperHeroService.Heros)
             {
                 <tr>
                     <td>@hero.Id</td>
@@ -29,6 +32,10 @@ else
                     <td>@hero.LastName</td>
                     <td>@hero.HeroName</td>
                     <td>@hero.Comic?.Name</td>
+                    <td>
+                        <button type="button" class="btn btn-warning btn-sm"><i class="oi oi-x"></i></button>
+                        <button class="btn btn-primary btn-sm" @onclick=@(() => editar(hero.Id))><i class="oi oi-pencil"></i></button>
+                    </td>
                 </tr>
             }
         </tbody>
@@ -36,10 +43,15 @@ else
 }
 
 @code {
-   private SuperHero[]? superHeroes;
-
     protected override async Task OnInitializedAsync()
     {
-        superHeroes = await Http.GetFromJsonAsync<SuperHero[]>("SuperHero");
+        await SuperHeroService.GetSuperHero();
     }
+
+    public void editar(int id)
+    {
+        Navigation.NavigateTo($"/hero/{id}");
+    }
+
+
 }

@@ -1653,13 +1653,13 @@ C:/repos/BlazorApp1Demo/BlazorApp1Demo/Client/obj/Debug/net6.0/ref/BlazorApp1Dem
 /home/rafael/repos/super-hero/BlazorApp1Demo/Client/obj/Debug/net6.0/refint/BlazorApp1Demo.Client.dll
 /home/rafael/repos/super-hero/BlazorApp1Demo/Client/obj/Debug/net6.0/BlazorApp1Demo.Client.pdb
 /home/rafael/repos/super-hero/BlazorApp1Demo/Client/obj/Debug/net6.0/ref/BlazorApp1Demo.Client.dll
-C:\repos\super-hero\BlazorApp1Demo\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.25.83rcu2yb09.js
 C:\repos\super-hero\BlazorApp1Demo\Client\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json
 C:\repos\super-hero\BlazorApp1Demo\Client\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js
 C:\repos\super-hero\BlazorApp1Demo\Client\bin\Debug\net6.0\wwwroot\_framework\BlazorApp1Demo.Client.dll
 C:\repos\super-hero\BlazorApp1Demo\Client\bin\Debug\net6.0\wwwroot\_framework\BlazorApp1Demo.Client.pdb
 C:\repos\super-hero\BlazorApp1Demo\Client\bin\Debug\net6.0\wwwroot\_framework\BlazorApp1Demo.Shared.dll
 C:\repos\super-hero\BlazorApp1Demo\Client\bin\Debug\net6.0\wwwroot\_framework\BlazorApp1Demo.Shared.pdb
+C:\repos\super-hero\BlazorApp1Demo\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.25.83rcu2yb09.js
 C:\repos\super-hero\BlazorApp1Demo\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat
 C:\repos\super-hero\BlazorApp1Demo\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm
 C:\repos\super-hero\BlazorApp1Demo\Client\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat
