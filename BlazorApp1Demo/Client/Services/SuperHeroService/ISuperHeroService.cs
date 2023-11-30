@@ -14,8 +14,10 @@ namespace BlazorApp1Demo.Client.Services.SuperHeroService
         Task GetComics();
         Task GetSuperHero();
         Task<SuperHero> GetSingleHero(int id);
-       // Task<Comic> GetSingleComic(int id);
 
+        Task CreateHero(SuperHero hero);
+        Task UpdateHero(SuperHero hero);
+        Task DeleteHero(int id);
 
     }
 }

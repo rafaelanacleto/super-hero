@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "AX8g5NIqBz9YNYCUqBYMMt08tCtK11ZnreNkZZEHytA=",
+  "Hash": "Fz9HevQWRKg3ULcWgar/cFP6RshIfUX2cNR8S9KGMYI=",
   "Source": "BlazorApp1Demo.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -7750,25 +7750,6 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\repos\\super-hero\\BlazorApp1Demo\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
-      "SourceId": "BlazorApp1Demo.Client",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\repos\\super-hero\\BlazorApp1Demo\\Client\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "css/open-iconic/FONT-LICENSE",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
-    },
-    {
       "Identity": "C:\\repos\\super-hero\\BlazorApp1Demo\\Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "BlazorApp1Demo.Client",
       "SourceType": "Discovered",
@@ -7881,6 +7862,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Identity": "C:\\repos\\super-hero\\BlazorApp1Demo\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "SourceId": "BlazorApp1Demo.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\repos\\super-hero\\BlazorApp1Demo\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/open-iconic/FONT-LICENSE",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
       "Identity": "C:\\repos\\super-hero\\BlazorApp1Demo\\Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",

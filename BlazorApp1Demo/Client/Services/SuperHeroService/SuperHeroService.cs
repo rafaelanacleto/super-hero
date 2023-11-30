@@ -1,4 +1,6 @@
+using BlazorApp1Demo.Client.Pages;
 using BlazorApp1Demo.Shared;
+using Microsoft.AspNetCore.Components;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,12 +13,15 @@ namespace BlazorApp1Demo.Client.Services.SuperHeroService
     public class SuperHeroService : ISuperHeroService
     {
         private readonly HttpClient _httpClient;
+        private readonly NavigationManager _navigationManager;
+
         public List<SuperHero> Heros { get; set; } = new List<SuperHero>();
         public List<Comic> Comics { get; set; } = new List<Comic>();
 
-        public SuperHeroService(HttpClient http)
+        public SuperHeroService(HttpClient http, NavigationManager navigationManager)
         {
             _httpClient = http;
+            _navigationManager = navigationManager;
         }
 
         public async Task GetComics()
@@ -44,10 +49,30 @@ namespace BlazorApp1Demo.Client.Services.SuperHeroService
             throw new Exception("Hero not found!");
         }
 
-        //public async Task UpdateHero(SuperHero hero)
-        //{
-        //    var result = await _http.PutAsJsonAsync($"api/superhero/{hero.Id}", hero);
-        //    await SetHeroes(result);
-        //}
+        public async Task CreateHero(SuperHero hero)
+        {
+            var result = await _httpClient.PostAsJsonAsync("superhero", hero);
+            await SetHeroes(result);
+        }
+
+        public async Task UpdateHero(SuperHero hero)
+        {
+            var result = await _httpClient.PutAsJsonAsync($"superhero/{hero.Id}", hero);
+            await SetHeroes(result);
+        }
+
+        public async Task DeleteHero(int id)
+        {
+            var result = await _httpClient.DeleteAsync($"superhero/{id}");
+            await SetHeroes(result);
+        }
+
+        private async Task SetHeroes(HttpResponseMessage result)
+        {
+            var response = await result.Content.ReadFromJsonAsync<List<SuperHero>>();
+            Heros = response;
+            _navigationManager.NavigateTo("superhero");
+        }
+
     }
 }

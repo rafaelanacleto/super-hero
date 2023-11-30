@@ -40,17 +40,25 @@ else
             }
         </tbody>
     </table>
+    <hr />
+    <button class="btn btn-outline-success" @onclick="CreateNewHero">Adcionar novo Hero</button>
 }
 
 @code {
     protected override async Task OnInitializedAsync()
     {
         await SuperHeroService.GetSuperHero();
+        await SuperHeroService.GetComics();
     }
 
     public void editar(int id)
     {
         Navigation.NavigateTo($"/hero/{id}");
+    }
+
+    public void CreateNewHero()
+    {
+        Navigation.NavigateTo($"/hero");
     }
 
 
